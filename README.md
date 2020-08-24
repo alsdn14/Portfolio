@@ -1,5 +1,15 @@
 # 김민우
 
+## Contact
+
+* Phone : 010 - 9821 - 1005
+
+* Mail : qkfka0413@naver.com
+
+* github : https://github.com/alsdn14
+
+* Youtube : https://www.youtube.com/channel/UCAqA3rQahxk78djbcDewzvw
+
 ## Introduction
 
 - 컴퓨터학과 4학년 졸업자 입니다.
