@@ -2,7 +2,7 @@
 
 ## Contents
 
-1. [역기획서] (https://github.com/alsdn14/Proposal)
+1. [역기획서](https://github.com/alsdn14/Proposal)
 
 2. [Resistance VR 카드보드용 게임 ](https://github.com/alsdn14/Resistance)
 
