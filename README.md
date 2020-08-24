@@ -1,14 +1,10 @@
 # 김민우
 
-## Contact
+## Contents
 
-* Phone : 010 - 9821 - 1005
+1. [역기획서] (https://github.com/alsdn14/Proposal)
 
-* Mail : qkfka0413@naver.com
-
-* github : https://github.com/alsdn14
-
-* Youtube : https://www.youtube.com/channel/UCAqA3rQahxk78djbcDewzvw
+2. [Resistance VR 카드보드용 게임 ](https://github.com/alsdn14/Resistance)
 
 ## Introduction
 
@@ -17,12 +13,6 @@
 유니티를 이용하여 간단한 몇가지 게임을 만들어 본 경험이 있습니다.
 
 학교에서 배운 내용 외에 게임을 만들어 보았습니다.
-
-
-
-
-
-
 
 
 - 게임을 좋아하고 여러 종류의 다양한 게임을 접해보았습니다.
@@ -40,15 +30,11 @@
 오랫동안 즐겨왔던 이런 저의 게임 방식이 게임 기획과 관련하여 도움이 될 것이라는 생각을 합니다.
 
 
-
-
 - 본격적으로 게임 기획에 관심을 가지게 된 건 학교생활을 하며 게임을 만드는 과제를 수행 중
 
 기획 -> 코딩 -> 디버깅 을 해 보며 각 단계마다 여러 보람이 있었고
 
 가장 재밌고 보람이 있었던 기획과 관련하여 관심을 갖기 시작했습니다.
-
-
 
 - 주로 플레이를 해 본 게임은 현재 나온 대부분의 MMORPG는 다 꽤 오랫동안 해보았고
 
@@ -58,5 +44,12 @@ RTS , AOS ,FPS 계열 게임, 모바일게임(턴 제, MMORPG) 도 많이 해봤
 
 그 중 더 깊게 게임하고 추억으로 남기고 싶은 게임들의 하이라이트를 밑에 개인 유튜브 채널에 편집해 올렸습니다.
 
+## Contact
 
-## contact
+* Phone : 010 - 9821 - 1005
+
+* Mail : qkfka0413@naver.com
+
+* github : https://github.com/alsdn14
+
+* Youtube : https://www.youtube.com/channel/UCAqA3rQahxk78djbcDewzvw
