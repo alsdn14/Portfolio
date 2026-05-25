@@ -3,20 +3,20 @@
 ## Contents
    
 1. [이슈 트래킹 및 코드리뷰 자동화](https://github.com/alsdn14/Issuetracker)  
-   Google 스프레드시트–GitLab API 연동으로 이슈 관리 자동화
-   GitLab Merge Request(MR)의 소스 코드 변경점을 AI API로 분석하여 QA 테스트 영향도를 자동 추출하는 시스템
+   Google 스프레드시트–GitLab API 연동으로 이슈 관리 자동화  
+   GitLab Merge Request(MR)의 소스 코드 변경점을 AI API로 분석하여 QA 테스트 영향도를 자동 추출하는 시스템  
+  
+2. [AI 기반 체크리스트 자동 생성](https://github.com/alsdn14/AI_checklist)    
+   Google Sheets + Gemini API 를 이용하여 명세기반 테스트 체크리스트 생성 자동화  
 
-2. [AI 기반 체크리스트 자동 생성](https://github.com/alsdn14/AI_checklist)  
-   Google Sheets + Gemini API 를 이용하여 명세기반 테스트 체크리스트 생성 자동화
+3. [PC 게임 테스트 명령어 매크로 툴]()    
+   PC 게임 테스트용 콘솔 명령어 및 환경 세팅을 원클릭으로 실행하는 GUI 매크로 툴  
 
-3. [PC 게임 테스트 명령어 매크로 툴]()  
-   PC 게임 테스트용 콘솔 명령어 및 환경 세팅을 원클릭으로 실행하는 GUI 매크로 툴
-
-4. [밸런스 테스트 자동화](https://github.com/alsdn14/Autobalance)  
-   OCR 기반 경험치·드랍률 측정, 치트 명령 자동 실행 GUI 툴
-
-5. [로그인 테스트 자동화](https://github.com/alsdn14/Login_test)  
-   Selenium 기반 웹 로그인 자동화 및 예외 처리 로직 구현 ( 개인 프로젝트 )
+4. [밸런스 테스트 자동화](https://github.com/alsdn14/Autobalance)    
+   OCR 기반 경험치·드랍률 측정, 치트 명령 자동 실행 GUI 툴  
+  
+5. [로그인 테스트 자동화](https://github.com/alsdn14/Login_test)    
+   Selenium 기반 웹 로그인 자동화 및 예외 처리 로직 구현 ( 개인 프로젝트 )  
 
 
 ## 소개
