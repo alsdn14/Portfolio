@@ -13,6 +13,12 @@
 4. [AI 기반 체크리스트 자동 생성](https://github.com/alsdn14/AI_checklist)  
    Google Sheets + Gemini API 를 이용하여 명세기반 테스트 체크리스트 생성 자동화
 
+5. [PC 게임 테스트 명령어 매크로 툴]()
+   PC 게임 테스트용 콘솔 명령어 및 환경 세팅을 원클릭으로 실행하는 GUI 매크로 툴
+   
+6. [이슈 코드리뷰 자동화]()
+   GitLab Merge Request(MR)의 소스 코드 변경점을 AI API로 분석하여 QA 테스트 영향도를 자동 추출하는 시스템 
+
 
 ## 소개
 게임 QA 분야에서 **사원 → 리드 → 파트장**으로 성장하며,   
