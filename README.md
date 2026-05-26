@@ -6,16 +6,20 @@
    Google 스프레드시트–GitLab API 연동으로 이슈 관리 자동화  
    GitLab Merge Request(MR)의 소스 코드 변경점을 AI API로 분석하여 QA 테스트 영향도를 자동 추출하는 시스템  
   
-2. [AI 기반 체크리스트 자동 생성](https://github.com/alsdn14/AI_checklist)    
-   Google Sheets + Gemini API 를 이용하여 명세기반 테스트 체크리스트 생성 자동화  
+2. [QA 통합 대시보드 — AI 체크리스트 자동 생성 · 데이터 검색 · 이슈 분석](https://github.com/alsdn14/AI_checklist)    
+   - 체크리스트 자동 생성 — GitLab 이슈 본문·코멘트 자동 수집 → LLM이 QA 체크리스트 생성 → Google Sheets 붙여넣기
+   - AI 데이터 검증 — 기획 변경 내용(텍스트·파일) 입력 → 관련 테이블 자동 탐색 → 실데이터 비교 및 불일치 분석
+   - RAG 챗봇 — 데이터 테이블·GitLab 이슈 수집 → 자연어 질문에 근거 기반 답변 생성
+   - 테이블 검색·뷰어 — AI 키워드 확장으로 다수 CSV 테이블 동시 조회 → 결과 CSV 다운로드
 
-3. [PC 게임 테스트 명령어 매크로 툴]()    
+
+4. [PC 게임 테스트 명령어 매크로 툴]()    
    PC 게임 테스트용 콘솔 명령어 및 환경 세팅을 원클릭으로 실행하는 GUI 매크로 툴  
 
-4. [밸런스 테스트 자동화](https://github.com/alsdn14/Autobalance)    
+5. [밸런스 테스트 자동화](https://github.com/alsdn14/Autobalance)    
    OCR 기반 경험치·드랍률 측정, 치트 명령 자동 실행 GUI 툴  
   
-5. [로그인 테스트 자동화](https://github.com/alsdn14/Login_test)    
+6. [로그인 테스트 자동화](https://github.com/alsdn14/Login_test)    
    Selenium 기반 웹 로그인 자동화 및 예외 처리 로직 구현 ( 개인 프로젝트 )  
 
 
