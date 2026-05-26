@@ -6,7 +6,7 @@
    - Google 스프레드시트–GitLab API 연동으로 이슈 관리 자동화  
    - GitLab Merge Request(MR)의 소스 코드 변경점을 AI API로 분석하여 QA 테스트 영향도를 자동 추출하는 시스템  
   
-2. [QA 통합 대시보드 — AI 체크리스트 자동 생성 · 데이터 검색 · 이슈 분석](https://github.com/alsdn14/AI_checklist)  
+2. [QA 통합 대시보드 — AI 체크리스트 자동 생성 · 데이터 검색 · 이슈 분석](https://github.com/alsdn14/QA_Dashboard)  
    - GitLab 이슈 기반 QA 체크리스트 자동 생성, 데이터 검증, 테이블 검색 기능을 통합한 웹 대시보드    
    - 로컬 AI 모델(Ollama)을 연동해 자연어로 이슈 조회 및 데이터 분석 가능  
 
