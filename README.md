@@ -2,7 +2,7 @@
 
 ## Contents
    
-1. [이슈 트래킹 및 코드리뷰 자동화 V2](https://github.com/alsdn14/Issuetracker-V2)  
+1. [이슈 트래킹, 코드리뷰 자동화 V2](https://github.com/alsdn14/Issuetracker-V2)  
    - 이전에는 단순 Google 스프레드시트–GitLab API 연동으로 이슈 관리 자동화 [이전 버전 링크](https://github.com/alsdn14/Issuetracker) 
    - V2 부터 Google 스프레드 시트 - Gitlab API 연동후 GitLab Merge Request(MR)의 소스 코드 변경점, 이슈 코멘트 내용 등을 AI API로 분석
    - 분석한 내용을 다시 Google 스프레드 시트로 양식에 맞게 이동시켜 팀원들이 보고 Test Case 작성에 참고할 수 있게 했습니다.
