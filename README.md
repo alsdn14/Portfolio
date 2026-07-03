@@ -2,9 +2,10 @@
 
 ## Contents
    
-1. [이슈 트래킹 및 코드리뷰 자동화](https://github.com/alsdn14/Issuetracker)  
-   - Google 스프레드시트–GitLab API 연동으로 이슈 관리 자동화  
-   - GitLab Merge Request(MR)의 소스 코드 변경점을 AI API로 분석하여 QA 테스트 영향도를 자동 추출하는 시스템  
+1. [이슈 트래킹 및 코드리뷰 자동화 V2](https://github.com/alsdn14/Issuetracker)  
+   - 이전에는 단순 Google 스프레드시트–GitLab API 연동으로 이슈 관리 자동화 [이전 버전 링크](https://github.com/alsdn14/Issuetracker) 
+   - V2 부터 Google 스프레드 시트 - Gitlab API 연동후 GitLab Merge Request(MR)의 소스 코드 변경점, 이슈 코멘트 내용 등을 AI API로 분석
+   - 분석한 내용을 다시 Google 스프레드 시트로 양식에 맞게 이동시켜 팀원들이 보고 Test Case 작성에 참고할 수 있게 했습니다.
   
 2. [QA 통합 대시보드 — AI 체크리스트 자동 생성 · 데이터 검색 · 이슈 분석](https://github.com/alsdn14/QA_Dashboard)  
    - GitLab 이슈 기반 QA 체크리스트 자동 생성, 데이터 검증, 테이블 검색 기능을 통합한 웹 대시보드    
