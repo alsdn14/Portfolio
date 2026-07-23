@@ -7,12 +7,12 @@
    - V2 부터 Google 스프레드 시트 - Gitlab API 연동후 GitLab Merge Request(MR)의 소스 코드 변경점, 이슈 코멘트 내용 등을 AI API로 분석
    - 분석한 내용을 다시 Google 스프레드 시트로 양식에 맞게 이동시켜 팀원들이 보고 Test Case 작성에 참고할 수 있게 했습니다.
   
-2. [QA 통합 대시보드 — AI 체크리스트 자동 생성 · 데이터 검색 · 이슈 분석](https://github.com/alsdn14/QA_Dashboard)  
-   - GitLab 이슈 기반 QA 체크리스트 자동 생성, 데이터 검증, 테이블 검색 기능을 통합한 웹 대시보드    
-   - 로컬 AI 모델(Ollama)을 연동해 자연어로 이슈 조회 및 데이터 분석 가능  
+2. [PC 게임 테스트 명령어 매크로 툴](https://github.com/alsdn14/QA-Macro-Tool)
+   - PC 게임 테스트용 콘솔 명령어 및 환경 세팅을 원클릭으로 실행하는 GUI 매크로 툴 
 
-3. [PC 게임 테스트 명령어 매크로 툴]()    
-   - PC 게임 테스트용 콘솔 명령어 및 환경 세팅을 원클릭으로 실행하는 GUI 매크로 툴  
+3. [QA 통합 대시보드 — AI 체크리스트 자동 생성 · 데이터 검색 · 이슈 분석](https://github.com/alsdn14/QA_Dashboard)
+   - GitLab 이슈 기반 QA 체크리스트 자동 생성, 데이터 검증, 테이블 검색 기능을 통합한 웹 대시보드    
+   - 로컬 AI 모델(Ollama)을 연동해 자연어로 이슈 조회 및 데이터 분석 가능   
 
 4. [밸런스 테스트 자동화](https://github.com/alsdn14/Autobalance)    
    - OCR 기반 경험치·드랍률 측정, 치트 명령 자동 실행 GUI 툴  
